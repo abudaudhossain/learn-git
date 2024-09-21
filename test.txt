@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hi, I am dev branch, not u i also here, i am abu daud.
+=======
+hi, I am dev branch, i fixed some bug
+>>>>>>> dev
