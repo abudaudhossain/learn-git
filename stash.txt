@@ -1,2 +1,1 @@
-ok just test.  all is ok.  I will changes some text. this some add. now i want to add dfgfd. 
-now it try to push.
+ok just test.  all is ok.  I will changes some text. 
